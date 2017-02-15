@@ -55,4 +55,35 @@ Por ejemplo,
 | Diseño y Análisis de Algoritmos   |                | Aplicaciones de la lógica  2UC   | Taller o curso    |  Taller o Curso | Taller o curso |  | |
 |                                   |                |                                  | Seminario 1       |  Seminario 2 | Taller o curso |  | |
 
-Todos los arreglos, desde luego, tendrían que estar respaldados por un profesor o profesora responsable en cada módulo a dictar.
+Todos los arreglos, desde luego, tendrían que estar respaldados por un profesor o profesora responsable en cada módulo a dictar y por la línea de investigación asociada. Sobre las líneas de investigación, vale acotar lo que decía el documento fundacional:
+
+"8.- LINEAS DE INVESTIGACION Y ESPECIALIZACION 
+Las líneas de investigación y especialización varían constantemente en función de la disponibilidad de los profesores y la existencia de grupos de investigación. Previo al inicio de cada cohorte, la Coordinación del Programa publicará la lista de líneas de investigación y especialización que estarán tentativamente disponibles para esa cohorte. Esta lista será actualizada anualmente en función de los cambios que se susciten durante al año.
+Para 1998 las líneas de investigación y especialización que ofrece el Programa de Postgrado son las siguientes :
+
+8.1.- LINEAS DE INVESTIGACION (PROGRAMA DE MAESTRIA)
+Automatización Industrial
+Computación Paralela 
+Informática Educativa
+Ingeniería de Datos e Información
+Ingeniería de Software Orientado a Objetos 
+Simulación y Modelado
+Sistemas de Información Geográfica
+Sistemas Inteligentes : Algoritmos Genéticos, Redes Neuronales, Vida Artificial y Lógica Difusa
+Sistemas Multiagentes
+Sistemas Distribuidos
+Sistemas Multimedia
+Sistemas Operativos Distribuidos
+Visualización Científica
+
+8.2.- LINEAS DE ESPECIALIZACION (PROGRAMA DE ESPECIALIZACION)
+Automatización Industrial
+Computación Paralela
+Ingeniería de Datos e Información
+Ingeniería de Software Orientado a Objetos
+Redes de Computadores
+Sistemas de Información Geográfica
+Sistemas Multimedia"
+
+Estas líneas, y los cursos y talleres que pueden sostener cada una, es el núcleo de la reformulación. 
+

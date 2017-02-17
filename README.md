@@ -19,7 +19,7 @@ Sin embargo, en 1999 se ofreció también este programa de especialización:
 
 | Primer Semestre        | Finales del Primer Semestre | Segundo Semestre  | Finales del Segundo Semestre | Tercer Semestre  | Finales de Tercer Semestre |
 | :--------------------: |:-----------------:| :---------------:| :--------------:|:-----------------:| :---------------:| :--------------:|
-| Logica Computacional              | Taller Java | Ingeniería de Datos   | Taller UNIX/Linux            | (Mini) Proyecto de Grado | Taller ORACLE |
+| Lógica Computacional              | Taller Java | Ingeniería de Datos   | Taller UNIX/Linux            | (Mini) Proyecto de Grado | Taller ORACLE |
 | Ingeniería del Software           | Taller NT   | Redes de Computadores | Taller de Network Management |                       | Taller SyBase |
 
 De manera que otras estructuras y arreglos son perfectamente posibles. Los talleres, por ejemplo, fueron ejercicios convenidos con proveedores de tecnología, que aportaron dotación y formación para los facilitadores, profesores regulares del postgrado. Cada taller acumulaba 2 UC, con al menos 32 horas de trabajo teórico y de laboratorio informático. Es decir, la especialización acumula 16 UC en obligatorias más 12 en talleres u otras electivas, sumando 28 UC, por encima de las 24 UC requeridas por el ordenamiento legal de postgrado vigente.
@@ -68,8 +68,8 @@ Por ejemplo, toda la maestria podra lucir así:
 
 | Primer Semestre        |  Primer Semestre | Segundo Semestre  | Segundo Semestre | Tercer Semestre  | Tercer Semestre | Cuarto Semestre  | Cuarto Semestre |
 | :--------------------: |:-----------------:| :---------------:| :--------------:|:-----------------:| :---------------:| :--------------:| :---------------:| :--------------:|
-| Logica Computacional              | Taller o curso Diplomado A |  Taller o curso Diplomado A  | Taller o curso Diplomado A    |  Taller o Curso | Taller o curso |  | |
-| Diseño y Análisis de Algoritmos   |                | Aplicaciones de la lógica  2UC   | Taller o curso    |  Taller o Curso | Taller o curso | Proyecto de Grado | |
+| Lógica Computacional              | Taller o curso Diplomado A |  Taller o curso Diplomado A  | Taller o curso Diplomado A    |  Taller o Curso | Taller o curso |  | |
+| Análisis y Diseño de Algoritmos   |                | Aplicaciones de la lógica  2UC   | Taller o curso    |  Taller o Curso | Taller o curso | Proyecto de Grado | |
 |  Teoría de Computación            |                |   Taller o curso    | Seminario 1       |  Seminario 2 | Taller o curso |  | |
 
 Todos los arreglos, desde luego, están respaldados por un profesor o profesora responsable en cada curso a dictar.

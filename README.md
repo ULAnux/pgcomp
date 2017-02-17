@@ -29,7 +29,7 @@ De manera que otras estructuras y arreglos son perfectamente posibles. Los talle
 Se ha propuesto ya una reformulación más granulada de esos programas para permitir mayor flexibilidad en los arreglos posibles. Esa reformulación consistiría en:
 
 1. La flexibilización de la estructura curricular, con **cursos más cortos** y curricula actualizados.
-2. La profundización de la modalidad **interactiva a distancia con la migración a una plataforma moderna**, como Open EDX, pero manteniendo el compromiso disciplinar del *acompañamiento a distancia y la evaluación presencial*.
+2. La profundización de la modalidad **interactiva a distancia con la migración a una plataforma moderna**, como OpenEDX, pero manteniendo el compromiso disciplinar del *acompañamiento a distancia y la evaluación presencial*.
 3. Un pensum granular, con salidas intermedias como cursos no conducentes a grado, pero acreditados, y un arreglo de varios **diplomados que correspondan con líneas de investigación**, todos también acreditados por el postgrado.
 
 En una primera aproximación (con consultas todavía en pleno desarrollo) se ha propuesto:
@@ -64,13 +64,13 @@ En una primera aproximación (con consultas todavía en pleno desarrollo) se ha 
 | PC2XX  | Electivas                                  |   Ingeniería de Métodos         | Ingeniería del Software |
 
 
-Por ejemplo,
+Por ejemplo, toda la maestria podra lucir así:
 
 | Primer Semestre        |  Primer Semestre | Segundo Semestre  | Segundo Semestre | Tercer Semestre  | Tercer Semestre | Cuarto Semestre  | Cuarto Semestre |
 | :--------------------: |:-----------------:| :---------------:| :--------------:|:-----------------:| :---------------:| :--------------:| :---------------:| :--------------:|
-| Logica Computacional              | Taller o curso |  Taller o curso  | Taller o curso            |  Taller o Curso | Taller o curso | Proyeto de Grado | |
-| Diseño y Análisis de Algoritmos   |                | Aplicaciones de la lógica  2UC   | Taller o curso    |  Taller o Curso | Taller o curso | Proyeto de Grado | |
-|  Teoría de Computación            |                |   Taller o curso    | Seminario 1       |  Seminario 2 | Taller o curso | Proyeto de Grado | |
+| Logica Computacional              | Taller o curso Diplomado A |  Taller o curso Diplomado A  | Taller o curso Diplomado A    |  Taller o Curso | Taller o curso |  | |
+| Diseño y Análisis de Algoritmos   |                | Aplicaciones de la lógica  2UC   | Taller o curso    |  Taller o Curso | Taller o curso | Proyecto de Grado | |
+|  Teoría de Computación            |                |   Taller o curso    | Seminario 1       |  Seminario 2 | Taller o curso |  | |
 
 Todos los arreglos, desde luego, están respaldados por un profesor o profesora responsable en cada curso a dictar.
 y por la línea de investigación asociada. 
